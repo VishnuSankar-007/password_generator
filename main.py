@@ -40,4 +40,3 @@ if __name__ == "__main__":
     print("Entropy-based Password:", entropy_based_password())
 
 
-print()
